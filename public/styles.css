@@ -1,0 +1,27 @@
+.boxmessage {
+  font-size: large;
+  width: 16em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+}
+
+footer {
+  color: rgb(235, 28, 28);
+  text-align:center;
+  position: fixed;
+  bottom:0;
+  height:50px;
+  width:100%;
+  display:inline-block;
+  vertical-align:top;
+  font-size:20px;
+}
+
+.deux {
+  list-style: square inside;
+}
+
+h3 {
+  font-style: italic;
+}
